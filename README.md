@@ -1,3 +1,4 @@
+View map here: https://www.arcgis.com/apps/instant/sidebar/index.html?appid=70d788df97824e1193a8cc2be30df4ac
 # parks-maintenance-gis
 Interactive map showing park maintenance status using ArcGIS Online.
 # Parks Maintenance GIS Project
